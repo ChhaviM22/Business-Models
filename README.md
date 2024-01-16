@@ -12,7 +12,7 @@ Model Evaluation
 ROC Curve
 Prediction on test set
 Precision- Recall
-#Case Study Attachments
+# Case Study Attachments
 Coding file in .ipynb format
 Assignment Subjective Questions in pdf format
 Presentation in pdf format
